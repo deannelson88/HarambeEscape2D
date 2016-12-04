@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarambeEscape2D.CSharp.Plugins", "HarambeEscape2D.CSharp.Plugins.csproj", "{9709EA0F-C245-A8FD-CC91-564CD331DF89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarambeEscape2D.CSharp", "HarambeEscape2D.CSharp.csproj", "{E4097D88-CA36-97F1-7971-96DC6B9FA261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarambeEscape2D.CSharp.Editor.Plugins", "HarambeEscape2D.CSharp.Editor.Plugins.csproj", "{B34B9451-B20F-DCB2-88DE-045A70BE9FB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarambeEscape2D.CSharp.Editor", "HarambeEscape2D.CSharp.Editor.csproj", "{DDF55BC2-0975-52DD-3E92-D73A261E4E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9709EA0F-C245-A8FD-CC91-564CD331DF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9709EA0F-C245-A8FD-CC91-564CD331DF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9709EA0F-C245-A8FD-CC91-564CD331DF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9709EA0F-C245-A8FD-CC91-564CD331DF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4097D88-CA36-97F1-7971-96DC6B9FA261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4097D88-CA36-97F1-7971-96DC6B9FA261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4097D88-CA36-97F1-7971-96DC6B9FA261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4097D88-CA36-97F1-7971-96DC6B9FA261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34B9451-B20F-DCB2-88DE-045A70BE9FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34B9451-B20F-DCB2-88DE-045A70BE9FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34B9451-B20F-DCB2-88DE-045A70BE9FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34B9451-B20F-DCB2-88DE-045A70BE9FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF55BC2-0975-52DD-3E92-D73A261E4E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF55BC2-0975-52DD-3E92-D73A261E4E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF55BC2-0975-52DD-3E92-D73A261E4E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF55BC2-0975-52DD-3E92-D73A261E4E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
