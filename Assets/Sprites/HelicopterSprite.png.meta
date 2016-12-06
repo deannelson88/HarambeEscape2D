@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 8b392a09952c77e48bf444030a3afd6e
+timeCreated: 1480859693
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HelicopterSprite_0
+    21300002: HelicopterSprite_1
+    21300004: HelicopterSprite_2
+    21300006: HelicopterSprite_3
+    21300008: HelicopterSprite_4
+    21300010: HelicopterSprite_5
+    21300012: HelicopterSprite_6
+    21300014: HelicopterSprite_7
+    21300016: HelicopterSprite_8
+    21300018: HelicopterSprite_9
+    21300020: HelicopterSprite_10
+    21300022: HelicopterSprite_11
+    21300024: HelicopterSprite_12
+    21300026: HelicopterSprite_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HelicopterSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 181
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelicopterSprite_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 92
+        width: 177
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelicopterSprite_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 94
+        width: 180
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelicopterSprite_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 91
+        width: 182
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelicopterSprite_4
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 94
+        width: 180
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelicopterSprite_5
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 94
+        width: 180
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelicopterSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 94
+        width: 180
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelicopterSprite_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 181
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelicopterSprite_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 177
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelicopterSprite_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 182
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelicopterSprite_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 182
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelicopterSprite_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 182
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelicopterSprite_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 182
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelicopterSprite_13
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 182
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
